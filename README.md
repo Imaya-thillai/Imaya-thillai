@@ -1,21 +1,20 @@
-<!-- ====================== WAVE HEADER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Imaya%20Thillai%20S&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Cloud%20Enthusiast&descAlignY=56&descSize=18&descAlignX=50" alt="header"/>
+<!-- ═══════════════════ WAVE HEADER ═══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Imaya%20Thillai%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20AWS%20Certified&descAlignY=58&descSize=18" alt="header"/>
 
-<!-- ====================== TYPING TAGLINE ====================== -->
+<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;AWS+Certified+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Building+Things+That+Matter+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=👋+Hi%2C+I'm+Imaya+Thillai+S!;Full-Stack+Developer+🚀;Machine+Learning+Engineer+🤖;AWS+Certified+Cloud+Enthusiast+☁️;Hackathon+Winner+🏆;Open+Source+Contributor+🌟" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ====================== BADGES / SOCIAL ====================== -->
-<a href="mailto:imayathillai20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/imayathillai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Imaya-thillai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=Imaya-thillai&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Imaya-thillai?label=Followers&style=for-the-badge&color=58a6ff&logo=github" alt="Followers"/>
+<!-- Social Badges -->
+<a href="mailto:imayathillai20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/imayathillai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Imaya-thillai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Imaya-thillai&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="views"/>
 
 </div>
 
@@ -23,148 +22,221 @@
 
 ---
 
-<!-- ====================== WHOAMI CODE BLOCK (Shivang Style) ====================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> whoami
+<!-- ═══════════════════ ABOUT ME + ANIME GIF ═══════════════════ -->
+## 🙋‍♀️ About Me
+
+<img align="right" width="320" src="assets/coding-gif.png" alt="Coding Anime GIF"/>
 
 ```typescript
 const imaya = {
-  name:        "Imaya Thillai S",
-  role:        "Full-Stack Developer & ML Engineer",
-  university:  "SCAD College of Engineering and Technology (2023–2027)",
-  focus:       ["Web Apps", "Machine Learning", "Cloud (AWS)", "Algorithms"],
-  languages:   ["Python", "JavaScript", "TypeScript", "Java"],
-  frameworks:  ["Next.js", "React", "Node.js", "FastAPI", "Flask"],
-  cloud:       ["AWS S3", "EC2", "SageMaker", "MLOps", "Render", "Vercel"],
-  certified:   "AWS Machine Learning Engineer Associate 🏆",
-  hackathons:  ["AFH x Logitech Women Who Master 🥇", "ISRO Bharatiya Antariksh 🚀", "Gemini API"],
-  openSource:  ["GSSoC Contributor", "ESSoc Contributor"],
-  philosophy:  "Build fast, ship clean, learn always. 🌱",
+  name      : "Imaya Thillai S",
+  role      : "Full-Stack Developer & ML Engineer",
+  college   : "SCAD College of Engineering (2023–2027)",
+  location  : "Tirunelveli, Tamil Nadu 🇮🇳",
+  pronouns  : "She / Her",
+  certified : "AWS ML Engineer Associate 🏆",
+  languages : ["Python", "JavaScript", "TypeScript", "Java"],
+  stack     : ["Next.js", "React", "Node.js", "FastAPI", "Flask"],
+  cloud     : ["AWS S3", "EC2", "SageMaker", "MLOps"],
+  currently : "Building ML-powered web apps & exploring GenAI ✨",
+  openSource: ["GSSoC Contributor 🌟", "ESSoc Contributor 🌟"],
+  funFact   : "I build things that ship, not just for demos! 🚀",
 };
 ```
 
-- 🔭 I build **end-to-end systems** — from Next.js frontends to Python ML backends with AWS cloud.
-- 🤖 I love **Machine Learning** — NLP, sentiment analysis, TF-IDF similarity, and predictive models.
-- ☁️ I work with **AWS** — S3, EC2, SageMaker, and cloud-integrated production deployments.
-- 🏅 **Hackathon Winner** — Zonal winner at AFH x Logitech & participant in ISRO Bharatiya Antariksh Hackathon 2026.
-- 🌍 **Open Source Contributor** — GSSoC & ESSoc.
-- 💬 Ask me about **full-stack architecture, ML pipelines, or AWS integration**.
+- 🔭 I build **end-to-end ML-powered web applications** from Next.js frontends to Python backends.
+- ☁️ Deep hands-on experience with **AWS** — S3, EC2, SageMaker, and cloud-integrated deployments.
+- 🏅 **Hackathon Winner** — AFH × Logitech Women Who Master (Zonal), ISRO Bharatiya Antariksh, ET AI Hackathon, IBM watsonx & more!
+- 🤝 **Open Source** — GSSoC & ESSoc contributor.
+- 💬 Ask me about **Full Stack Architecture**, **ML Pipelines**, or **AWS integration**.
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════ SKILLS ═══════════════════ -->
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+
+### ☁️ Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🤖 ML & Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+---
+
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏗️ Project | 📋 Description | 🛠️ Tech |
+|:-----------|:--------------|:--------|
+| [**🛒 Amazon Market Gap Detector**](https://github.com/Imaya-thillai/amazon-market-gap-detector) | ML-powered market analysis using live Amazon data via RapidAPI. Predicts business opportunities using TF-IDF, VADER sentiment & weighted scoring. | `FastAPI` `React` `Python` `ML` |
+| [**😀 EmojiLang**](https://emoji-lang.vercel.app) | Emoji-Based Programming Language Interpreter built for Microsoft Agents League Hackathon 2026. Live on Vercel. | `Node.js` `Interpreter` `Vercel` |
+| [**🗺️ PathFinder**](https://github.com/Imaya-thillai) | Route Optimization System using OpenStreetMap. Implemented A*, Dijkstra's, BFS with full route visualization. | `Python` `DSA` `Maps API` |
+| [**🗳️ Digital-Civic**](https://github.com/Imaya-thillai/Digital-Civic) | Role-based civic engagement platform with secure auth, real-time voting & optimized PostgreSQL database. | `Next.js` `PostgreSQL` `Prisma` |
+
+</div>
+
+---
+
+<!-- ═══════════════════ POPULAR REPOS ═══════════════════ -->
+## 📌 Popular Repositories
+
+<div align="center">
+
+<a href="https://github.com/Imaya-thillai/amazon-market-gap-detector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaya-thillai&repo=amazon-market-gap-detector&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Imaya-thillai/Digital-Civic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imaya-thillai&repo=Digital-Civic&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Infosys Springboard
+**Web Developer Intern** | `Nov 2025 – Jan 2026`
+- Built role-based civic engagement platform with secure authentication & real-time voting
+- Participated in agile debugging, testing & optimization
+- Worked with team to improve code quality & app performance
+
+</td>
+<td width="50%">
+
+### 🏢 Digisailor
+**Full Stack Developer Intern** | `Jan 2025 – Feb 2025`
+- Built full webpages using **Next.js**, HTML, CSS, JS
+- Created backend integrations using **Prisma** and **PostgreSQL**
+- Developed responsive UI components based on client requirements
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<img src="assets/achievements.jpg" width="82%" alt="Achievements — PartyRock AWS, Aspire For Her, Logitech, Geeks2Code, ISRO Bharatiya Antariksh Hackathon, Wireshark, IBM watsonx, ET AI Hackathon, Hack2Skill, ECSoC, ESoC Contributor, Elite Coders"/>
+
+</div>
 
 <br/>
 
----
+<div align="center">
 
-<!-- ====================== SKILLS (Chandan Style) ====================== -->
-## 💻 **Skills**
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### **Databases & ORM**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### **Machine Learning & Data**
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/-SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-<!-- ====================== PROJECTS (Chandan Style Table) ====================== -->
-## 🚀 **Featured Projects**
-
-| 🏗️ Project | 📋 Description | 🛠️ Tech Stack |
-|------------|----------------|----------------|
-| [**Amazon Market Gap Detector**](https://github.com/Imaya-thillai/amazon-market-gap-detector) | ML-powered market analysis tool fetching live Amazon product data via RapidAPI. Predicts business opportunity using TF-IDF similarity, VADER sentiment, and weighted scoring algorithm. | `FastAPI` `React` `Python` `TF-IDF` `scikit-learn` `RapidAPI` |
-| [**EmojiLang**](https://emoji-lang.vercel.app) | Emoji-Based Programming Language Interpreter built for Microsoft Agents League Hackathon 2026. Live deployed on Vercel. | `Custom Interpreter` `Node.js` `Vercel` |
-| [**PathFinder**](https://github.com/Imaya-thillai) | Route Optimization & Visualization System using real OpenStreetMap data. Implemented A*, Dijkstra's, and BFS algorithms with full route visualization. | `Algorithms` `DSA` `Maps API` `Python` |
-| [**Digital-Civic**](https://github.com/Imaya-thillai/Digital-Civic) | Role-based civic engagement platform with secure authentication, real-time voting, and optimized PostgreSQL database. | `Next.js` `PostgreSQL` `Prisma` `JWT` |
-
----
-
-<!-- ====================== EXPERIENCE ====================== -->
-## 💼 **Professional Experience**
-
-<div align="left">
-
-**🏢 Web Developer Intern** — *Infosys Springboard* &nbsp;|&nbsp; `Nov 2025 – Jan 2026`
-> Built a role-based civic engagement platform with secure auth & real-time voting. Participated in agile debugging, testing, and optimization cycles.
-
-**🏢 Full Stack Developer Intern** — *Digisailor* &nbsp;|&nbsp; `Jan 2025 – Feb 2025`
-> Built full webpages using Next.js, HTML, CSS, JS. Created backend integrations using Prisma and PostgreSQL. Developed responsive UI based on client requirements.
+| 🏅 Achievement | 🏢 Organization | 📅 Year |
+|:--------------|:---------------|:-------:|
+| 🥇 Zonal Winner — Women Who Master Hackathon | AFH × Logitech | 2026 |
+| 🚀 Bharatiya Antariksh Hackathon Participant | ISRO | 2026 |
+| 🤖 ET AI Hackathon — Think AI. Build with GenAI | The Economic Times | 2026 |
+| 💡 IBM watsonx AI Challenge | IBM | 2026 |
+| 🌐 AWS PartyRock AI Builder | Amazon Web Services | 2026 |
+| 🎯 Hack2Skill Hackathon Participant | Hack2Skill | 2026 |
+| 🌍 GSSoC Open Source Contributor | GirlScript Foundation | 2026 |
+| ⭐ ECSoC & ESoC Contributor | Elite Coders | 2026 |
+| 🛡️ Wireshark Network Analysis | Wireshark / Geeks2Code | 2026 |
 
 </div>
 
 ---
 
-<!-- ====================== ABOUT ME (Chandan Style Flex + GIF) ====================== -->
-## 🙋‍♀️ **About Me**
-
-<div style="display: flex; align-items: top; gap: 20px;">
-  <div style="flex: 1;">
-    <ul>
-      <li><strong>Pronouns</strong>: She/Her 👩‍💻</li>
-      <li>🎓 Computer Science Engineering student graduating in <strong>2027</strong>.</li>
-      <li>☁️ Currently preparing for <strong>AWS Machine Learning Engineer Associate</strong> certification.</li>
-      <li>🤝 Looking to collaborate on <strong>Open Source ML</strong> and <strong>Full Stack projects</strong>.</li>
-      <li>🏅 Real fact: <em>I build things that actually ship, not just for demos!</em></li>
-      <li>📍 Based in <strong>Tirunelveli, Tamil Nadu, India</strong></li>
-    </ul>
-  </div>
-  <div style="flex: 0 0 40%; text-align: center;">
-    <img width="200px" height="200px" alt="Coding GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-  </div>
-</div>
-
----
-
-<!-- ====================== GITHUB STATS (Chandan Style) ====================== -->
-<summary><h2>📊 GitHub Stats</h2></summary>
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imaya-thillai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Imaya's Github Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imaya-thillai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" width="40%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Imaya-thillai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaya-thillai&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imaya-thillai&theme=dark&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imaya-thillai&theme=tokyonight&hide_border=true" width="60%" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imaya-thillai&theme=juicyfresh&no-bg=true&row=1&no-frame=true" alt="GitHub Trophies" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Imaya-thillai&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" alt="Trophies"/>
 </div>
 
 ---
 
-<!-- ====================== CONTRIBUTION SNAKE ====================== -->
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Imaya-thillai/Imaya-thillai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imaya-thillai&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
 
-<!-- ====================== FOOTER WAVE ====================== -->
+<!-- ═══════════════════ SNAKE GAME ═══════════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="assets/snake-game.png" width="100%" alt="GitHub Contribution Snake Game"/>
+</div>
+
+> 🐍 *Snake munching through all my GitHub contributions!*
+
+---
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<div align="center">
+
+### 💌 Let's Connect & Build Together!
+
+<a href="mailto:imayathillai20@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/imayathillai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Imaya-thillai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+⭐️ *From [Imaya-thillai](https://github.com/Imaya-thillai) with 💙*
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
