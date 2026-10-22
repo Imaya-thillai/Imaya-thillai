@@ -44,61 +44,42 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--          🛠️ MY FAVORITE TOOLS  (DenverCoder1 style)      -->
+<!--          🛠️ LANGUAGES & TOOLS  (skillicons.dev style)    -->
 <!-- ══════════════════════════════════════════════════════════ -->
-## 🛠️ My Favorite Tools
+## 🛠️ Languages and Tools
 
-### 👨‍💻 Programming and Markup Languages
-
-<p>
-  <a href="https://github.com/Imaya-thillai"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=coffeescript&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+<h4>👨‍💻 Programming Languages</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css&perline=8" />
 </p>
 
-### 🧰 Frameworks and Libraries
-
-<p>
-  <a href="https://github.com/Imaya-thillai"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE.svg?logo=prisma&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
+<h4>⚡ Frameworks & Libraries</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,flask,tailwind&perline=8" />
 </p>
 
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-  <a href="https://github.com/Imaya-thillai"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Render" src="https://img.shields.io/badge/Render-46E3B7.svg?logo=render&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="AWS SageMaker" src="https://img.shields.io/badge/SageMaker-FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+<h4>🗄️ Databases & ORM</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&perline=8" />
 </p>
 
-### 💻 Software and Tools
+<h4>☁️ Cloud & DevOps</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,docker&perline=8" />
+</p>
 
-<p>
-  <a href="https://github.com/Imaya-thillai"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="https://github.com/Imaya-thillai"><img alt="IBM watsonx" src="https://img.shields.io/badge/IBM%20watsonx-052FAD.svg?logo=ibm&logoColor=white"></a>
+<h4>🔧 Tools & Editors</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,jupyter&perline=8" />
+</p>
+
+<h4>🤖 ML & Data Science</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&perline=8" />
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/SageMaker-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/IBM%20watsonx-052FAD.svg?style=flat-square&logo=ibm&logoColor=white" height="48"/>
 </p>
 
 ---
