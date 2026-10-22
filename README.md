@@ -7,37 +7,26 @@
 <!--                   SOCIAL BADGES                           -->
 <!-- ══════════════════════════════════════════════════════════ -->
 <p align="center">
-  <a href="mailto:imayathillai20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/imayathillai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/Imaya-thillai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:imayathillai20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://linkedin.com/in/imayathillai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/Imaya-thillai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://builder.aws.com/community/@imaya20?tab=badges"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Builder Profile"/></a>
 </p>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                ABOUT ME  +  ANIME GIF                    -->
+<!--                       ABOUT ME                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
-## 👩‍💻 About Me
+## About Me
 
-<img align="right" width="300" src="assets/coding-gif.png" alt="Anime Coding GIF"/>
+<img align="right" width="280" src="assets/about-me.gif" alt="About Me GIF"/>
 
-🎓 **B.E. Computer Science Engineering** — SCAD College of Engineering & Technology *(2023 – 2027)*
+I am a Computer Science and Engineering undergraduate at SCAD College of Engineering and Technology (2023–2027), based in Tirunelveli, Tamil Nadu, India. As a Full-Stack Developer and Machine Learning enthusiast, I focus on engineering resilient web applications and integrating production-ready machine learning pipelines with cloud infrastructure.
 
-🌍 Based in **Tirunelveli, Tamil Nadu, India**
+My background includes internships at Infosys Springboard and Digisailor, where I developed role-based civic engagement systems, implemented secure authentication workflows, optimized relational database schemas with PostgreSQL and Prisma, and built dynamic interfaces using Next.js and React.
 
-💼 Former intern at **Infosys Springboard** & **Digisailor** — building full-stack civic tech and enterprise web platforms.
-
-🤖 Passionate about **Machine Learning**, **NLP**, and **cloud-integrated** production systems on **AWS**.
-
-🏆 **AWS Machine Learning Engineer Associate** certified.
-
-🥇 Hackathon winner across **AFH × Logitech**, **ISRO Bharatiya Antariksh**, **ET AI Hackathon**, **IBM watsonx** and more.
-
-🌟 Active **Open Source contributor** — GSSoC & ESSoc.
-
-🚀 I build things that **actually ship** — from ML-powered market detectors to civic engagement platforms.
-
-📬 Always open to collaboration, internships, and exciting opportunities!
+Certified as an AWS Machine Learning Engineer Associate, I actively explore natural language processing, sentiment analysis, and scalable backend architecture using FastAPI, Flask, and AWS cloud services including S3, EC2, and SageMaker. I also frequently participate in competitive hackathons and contribute to open-source initiatives such as GSSoC and ESSoc, continually seeking opportunities to collaborate on impactful engineering projects.
 
 <br clear="right"/>
 
@@ -129,18 +118,18 @@
 
 ### 🏢 Infosys Springboard
 **Web Developer Intern** &nbsp;|&nbsp; `Nov 2025 – Jan 2026`
-- ✅ Built a role-based civic engagement platform with secure auth & real-time voting
-- ✅ Participated in agile debugging, testing & performance optimization
-- ✅ Improved code quality through collaborative code reviews
+- Built a role-based civic engagement platform with secure auth & real-time voting
+- Participated in agile debugging, testing & performance optimization
+- Improved code quality through collaborative code reviews
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 Digisailor
 **Full Stack Developer Intern** &nbsp;|&nbsp; `Jan 2025 – Feb 2025`
-- ✅ Built full webpages using **Next.js**, HTML, CSS, JS
-- ✅ Created backend integrations using **Prisma** & **PostgreSQL**
-- ✅ Developed responsive UI components per client requirements
+- Built full webpages using **Next.js**, HTML, CSS, JS
+- Created backend integrations using **Prisma** & **PostgreSQL**
+- Developed responsive UI components per client requirements
 
 </td>
 </tr>
@@ -176,45 +165,22 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--              📊 STATS AND ACTIVITY                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-## 📊 Stats and Activity
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Imaya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Imaya-thillai&theme=monokai-metallian&hide_border=true&background=1A1B27&ring=FF5722&fire=FF9800&currStreakNum=ffffff&sideNums=FF9800&dates=aaaaaa"/>
-  </a>
-</p>
-
-<p align="center">
-  <img alt="Imaya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaya-thillai&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</p>
-
-<!-- Computer / Coding Activity Graph GIF -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imaya-thillai&theme=react-dark&hide_border=true&area=true&color=FF5722&line=FF9800&point=ffffff" width="95%" alt="Contribution Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imaya-thillai&theme=radical&no-frame=true&row=1&column=7" width="95%" alt="Trophies"/>
-</p>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                      FOOTER                               -->
 <!-- ══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-### 💌 Let's Connect & Build Together!
+### Let's Connect & Build Together!
 
-<a href="mailto:imayathillai20@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://linkedin.com/in/imayathillai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/Imaya-thillai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:imayathillai20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://linkedin.com/in/imayathillai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/Imaya-thillai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://builder.aws.com/community/@imaya20?tab=badges"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Builder Profile"/></a>
+</p>
 
 <br/>
 
-⭐️ *From [Imaya-thillai](https://github.com/Imaya-thillai) with 💙*
+*From [Imaya-thillai](https://github.com/Imaya-thillai)*
 
 </div>
 
